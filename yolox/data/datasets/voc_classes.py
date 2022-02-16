@@ -4,7 +4,7 @@
 
 # VOC_CLASSES = ( '__background__', # always index 0
 VOC_CLASSES = (
-  "car",
-  "pedestrian",
-  "cyclist"
+  "Car",
+  "Pedestrian",
+  "Cyclist"
 )
